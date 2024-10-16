@@ -43,5 +43,10 @@ export default {
       title: 'Details',
       type: 'string',
     },
+    {
+      title: 'Is this product available',
+      name: 'available',
+      type: 'boolean'
+    },
   ],
 }
